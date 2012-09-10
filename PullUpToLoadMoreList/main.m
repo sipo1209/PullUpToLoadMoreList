@@ -2,7 +2,7 @@
 //  main.m
 //  PullUpToLoadMoreList
 //
-//  Created by 许 忠洲 on 12-9-10.
+//  Created by Hsuzhongzhou on 12-9-10.
 //  Copyright (c) 2012年 eshore. All rights reserved.
 //
 
