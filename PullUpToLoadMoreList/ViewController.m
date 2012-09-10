@@ -22,7 +22,6 @@
     [ibTableView reloadData];
     if (refreshHeaderView == nil) {
         EGORefreshTableHeaderView* view = [[EGORefreshTableHeaderView alloc] initWithFrame:CGRectMake(0, ibTableView.contentSize.height, 320.0f, 65.0)];
-        NSLog(@"%@", NSStringFromCGRect( view.frame ));
         view.delegate = self;
         [ibTableView addSubview:view];
         refreshHeaderView = view;
