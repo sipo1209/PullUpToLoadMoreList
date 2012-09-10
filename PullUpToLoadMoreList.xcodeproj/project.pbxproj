@@ -25,6 +25,7 @@
 		4D7A801C15FDE0850027F9B3 /* grayArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A801415FDE0850027F9B3 /* grayArrow@2x.png */; };
 		4D7A801D15FDE0850027F9B3 /* whiteArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A801515FDE0850027F9B3 /* whiteArrow.png */; };
 		4D7A801E15FDE0850027F9B3 /* whiteArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A801615FDE0850027F9B3 /* whiteArrow@2x.png */; };
+		4D7A802115FDE3DD0027F9B3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A802015FDE3DD0027F9B3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		4D7A801415FDE0850027F9B3 /* grayArrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "grayArrow@2x.png"; sourceTree = "<group>"; };
 		4D7A801515FDE0850027F9B3 /* whiteArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiteArrow.png; sourceTree = "<group>"; };
 		4D7A801615FDE0850027F9B3 /* whiteArrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whiteArrow@2x.png"; sourceTree = "<group>"; };
+		4D7A802015FDE3DD0027F9B3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 		4D7A7FC415FDC8D90027F9B3 = {
 			isa = PBXGroup;
 			children = (
+				4D7A802015FDE3DD0027F9B3 /* README.md */,
 				4D7A7FD915FDC8D90027F9B3 /* PullUpToLoadMoreList */,
 				4D7A7FD215FDC8D90027F9B3 /* Frameworks */,
 				4D7A7FD015FDC8D90027F9B3 /* Products */,
@@ -208,6 +211,7 @@
 				4D7A801C15FDE0850027F9B3 /* grayArrow@2x.png in Resources */,
 				4D7A801D15FDE0850027F9B3 /* whiteArrow.png in Resources */,
 				4D7A801E15FDE0850027F9B3 /* whiteArrow@2x.png in Resources */,
+				4D7A802115FDE3DD0027F9B3 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
